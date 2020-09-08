@@ -2,7 +2,7 @@ class avgadd
 {
  static int x,y,z;
  public void set(int x,int y)
- {c
+ {
   this.x=x;this.y=y;
  }
  public static void add()
